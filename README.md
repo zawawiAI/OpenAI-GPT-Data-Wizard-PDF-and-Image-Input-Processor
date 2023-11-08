@@ -1,7 +1,5 @@
 # AutoGrader-GPT
 
-Essay Grader
-
 This is a simple Python application for grading essays based on the IELTS Scoring Method using OpenAI's GPT-3.5 Turbo model. The application allows you to grade essays from both image files and PDF documents.
 Prerequisites
 
@@ -44,4 +42,4 @@ Note
 
 Disclaimer
 
-This application is a simple demonstration of how to use OpenAI's GPT-4 for grading essays. The accuracy of the grading may vary, and it is intended for educational purposes.
+This application is a simple demonstration of how to use OpenAI's GPT-3.5 Turbo for grading essays. The accuracy of the grading may vary, and it is intended for educational purposes.
