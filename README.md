@@ -2,6 +2,12 @@
 
 
 
+https://github.com/zawawiAI/AutoGrader-GPT/assets/50743060/e0e4d989-5b0b-48a2-ba2a-a8989579480b
+
+
+
+
+
 This is a simple Python application for grading essays based on the IELTS Scoring Method using OpenAI's GPT-3.5 Turbo model. The application allows you to grade essays from both image files and PDF documents.
 Prerequisites
 
