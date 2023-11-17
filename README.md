@@ -1,4 +1,4 @@
-# AutoGrader-GPT
+# OpenAI GPT Data Wizard: PDF and Image Input Processor
 
 
 
